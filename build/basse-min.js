@@ -1,6 +1,6 @@
 /*
  * basse.js
- * For your basic needs.
+ * Utilities for your basic Javascript needs.
  *
  * @author illarra.com
  */

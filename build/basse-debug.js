@@ -1,6 +1,6 @@
 /*!
  * basse.js
- * For your basic needs.
+ * Utilities for your basic Javascript needs.
  *
  * @author illarra.com
  */
@@ -11,10 +11,6 @@ var BASSE = BASSE || {};
  * Boot
  *
  * Initializer.
- * 
- * @package    basse.js
- * @subpackage javascript
- * @version    SVN: $Id: boot.js 3750 2010-12-02 15:42:52Z doup $
  */
 
 BASSE.boot = {

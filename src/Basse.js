@@ -4,5 +4,4 @@
  *
  * @author illarra.com
  */
-
 var BASSE = BASSE || {};

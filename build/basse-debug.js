@@ -4,7 +4,6 @@
  *
  * @author illarra.com
  */
-
 var BASSE = BASSE || {};
 
 /**
@@ -12,7 +11,6 @@ var BASSE = BASSE || {};
  *
  * Initializer.
  */
-
 BASSE.boot = {
   // PRIVATE
   _callbacks: {},

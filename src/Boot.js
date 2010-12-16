@@ -3,7 +3,6 @@
  *
  * Initializer.
  */
-
 BASSE.boot = {
   // PRIVATE
   _callbacks: {},

@@ -3,6 +3,7 @@ basse.js
 
 Boot
 ----
+Few examples of the boot module:
 
     // Example with module/action
     BASSE.boot.register({module:"page", action:"index"}, function (params) {

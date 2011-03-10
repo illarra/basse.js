@@ -1,11 +1,13 @@
 /**
- * Boot
+ * Boot Manager
  *
- * Initializer.
+ * register() some callbacks to run with a given object as Id. Latter on, let 
+ * basse.js run() your callback given an Id description and an input object.
  */
 BASSE.boot = {
   // PRIVATE
   _callbacks: {},
+  _params:    {},
   _generateId: function (o) {
     var keys = [], 
         id   = [], 
@@ -32,7 +34,6 @@ BASSE.boot = {
     
     return subset;
   },
-  _params: {},
   // PUBLIC
   getParam: function (id, def) {
     if (id in this._params) {

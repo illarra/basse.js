@@ -1,2 +1,2 @@
-Basse.js
-Boot.js
+basse.js
+boot.js

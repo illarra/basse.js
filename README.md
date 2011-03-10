@@ -37,7 +37,7 @@ Let's you execute an init callback depending on an input object. Here is a littl
       </body>
     </html>
     
-You can you any object as the Id for your callbacks. Here is an example with just an "id":
+You can use any object as the Id for your callbacks. Here is an example with just an "id":
     
     // Example with just an id
     BASSE.boot.register({id:"homepage"}, function (params) {

@@ -1,2 +1,3 @@
 basse.js
 boot.js
+tmpl.js
